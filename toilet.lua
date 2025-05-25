@@ -60,7 +60,7 @@ TextButton.MouseButton1Click:Connect(function()
   Button1 = "Close",
  })
  game.StarterGui:SetCore("SendNotification", {
-  Title = "Made by DesiredOpal",
+  Title = "Made by mcbroamszc",
   Text = "You can now AFK for as long as you want.",
   Duration = 5,
   Button1 = "",
